@@ -1,3 +1,5 @@
+package vehicle_oop;
+
 public class Arac {
     private int hiz;
     private double yakit;

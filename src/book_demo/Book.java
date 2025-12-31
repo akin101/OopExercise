@@ -1,3 +1,5 @@
+package book_demo;
+
 public class Book {
     String tittle;
     int pages;

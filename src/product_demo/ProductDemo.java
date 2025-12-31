@@ -1,3 +1,5 @@
+package product_demo;
+
 import java.util.Scanner;
 public class ProductDemo {
     public static void main(String[] args){

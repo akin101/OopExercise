@@ -1,3 +1,5 @@
+package bank_account;
+
 import java.util.Scanner;
 public class Lab7 {
     public static void main(String[] args){

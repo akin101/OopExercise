@@ -1,3 +1,5 @@
+package vehicle_oop;
+
 public class Otomobil extends Arac {
 
     private final double tuketim = 0.07;

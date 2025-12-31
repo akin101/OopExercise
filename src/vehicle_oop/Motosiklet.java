@@ -1,3 +1,6 @@
+package vehicle_oop;
+
+
 public class Motosiklet extends Arac {
     private final double tuketim = 0.05;
 
